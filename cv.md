@@ -20,6 +20,7 @@ JavaScript/ES6 learning
 Figma
 Git
 English - A2 studying
+Slovenian - A1 studying
 Ukrainian - Native
 Russian - Native
 
