@@ -57,3 +57,4 @@ Education
 Kyiv university of Civil Aviation
 Aircraft electronics engineer
 Years: 1991 - 1997
+
